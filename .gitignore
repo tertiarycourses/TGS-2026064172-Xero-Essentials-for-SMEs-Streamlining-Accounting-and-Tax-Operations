@@ -1,0 +1,11 @@
+.env
+.DS_Store
+.claude/
+assessment/
+assets/
+build/
+reference/
+archive/
+courseweare/
+*.tmp
+~$*

@@ -1,0 +1,6 @@
+Code,Name,Type,Tax Code,Description
+200,Sales - Homeware,Revenue,SR,Sale of homeware in Singapore
+310,Cost of Goods Sold,Direct Costs,TX,Cost of traded goods
+400,Advertising,Expense,TX,Marketing and advertising
+610,Accounts Receivable,Current Asset,NONE,System control account
+800,Accounts Payable,Current Liability,NONE,System control account

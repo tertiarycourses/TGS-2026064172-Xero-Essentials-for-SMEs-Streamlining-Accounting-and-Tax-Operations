@@ -1,0 +1,3 @@
+ContactName,InvoiceNumber,InvoiceDate,DueDate,Description,Quantity,UnitAmount,AccountCode,TaxType
+Lion City Cafe Pte Ltd,INV-1001,08/07/2026,07/08/2026,Eco cup cartons,20,640.00,200,OUTPUT
+Marina Events Pte Ltd,INV-1002,10/07/2026,10/07/2026,Barista tool set,2,490.00,200,OUTPUT

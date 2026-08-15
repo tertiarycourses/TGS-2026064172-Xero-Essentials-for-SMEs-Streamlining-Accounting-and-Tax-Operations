@@ -1,0 +1,5 @@
+GSTF5Box,ControlDescription,AmountSGD,LedgerSource,ReviewerStatus
+Box 1,Standard-rated supplies,186000.00,GST F5 Transactions by box number,Pending
+Box 5,Taxable purchases,92000.00,GST F5 Transactions by box number,Pending
+Box 6,Output tax,16740.00,GST system account,Pending
+Box 7,Input tax,8280.00,GST system account,Pending

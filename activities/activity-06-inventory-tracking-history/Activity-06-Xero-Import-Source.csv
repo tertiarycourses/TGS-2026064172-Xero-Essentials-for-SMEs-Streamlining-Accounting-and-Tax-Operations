@@ -1,0 +1,3 @@
+ItemCode,ItemName,Description,PurchaseUnitPrice,PurchaseAccount,SalesUnitPrice,SalesAccount,InventoryAssetAccount,COGSAccount
+ECO-CUP,Eco Cup Carton,"Compostable cups, carton",310.00,310,640.00,200,630,310
+MUG-12,Reusable Mug Set,Set of 12 mugs,72.00,310,148.00,200,630,310

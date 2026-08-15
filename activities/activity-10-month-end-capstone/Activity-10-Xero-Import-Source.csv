@@ -1,0 +1,5 @@
+ExceptionID,Area,ObservedIssue,AmountSGD,ExpectedControl,Owner,Status
+CAP-001,Bank,Unreconciled statement line,1250.00,Find and match or create with evidence,Learner,Open
+CAP-002,Payables,Possible duplicate supplier bill,2180.00,Search supplier/reference/date/amount,Learner,Open
+CAP-003,GST,Transaction has no tax rate,3400.00,Classify and validate against evidence,Learner,Open
+CAP-004,Receivables,Material overdue balance,7800.00,Assign collection action and due date,Learner,Open

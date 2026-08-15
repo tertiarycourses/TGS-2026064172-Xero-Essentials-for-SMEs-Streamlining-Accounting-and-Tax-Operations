@@ -1,0 +1,5 @@
+TransactionID,Date,Type,Counterparty,NetAmountSGD,AmountsAre,ExpectedTaxTreatment,Evidence
+GST-S01,09/07/2026,Sales invoice,Singapore customer,5000.00,Tax Exclusive,Standard-Rated Supplies,Local delivery note
+GST-S02,11/07/2026,Sales invoice,Overseas customer,7200.00,Tax Exclusive,Escalate zero-rate evidence,Export permit pending
+GST-P01,13/07/2026,Bill,Local supplier,2400.00,Tax Exclusive,Standard-Rated Purchases,Valid tax invoice
+GST-P02,15/07/2026,Expense claim,Staff member,600.00,Tax Inclusive,Escalate private element,Mixed-purpose receipt
